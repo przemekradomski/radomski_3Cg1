@@ -1,0 +1,14 @@
+C:\Users\Przemek\Documents\c#\programowanieObiektowe\bin\Debug\net10.0\programowanieObiektowe.exe
+C:\Users\Przemek\Documents\c#\programowanieObiektowe\bin\Debug\net10.0\programowanieObiektowe.deps.json
+C:\Users\Przemek\Documents\c#\programowanieObiektowe\bin\Debug\net10.0\programowanieObiektowe.runtimeconfig.json
+C:\Users\Przemek\Documents\c#\programowanieObiektowe\bin\Debug\net10.0\programowanieObiektowe.dll
+C:\Users\Przemek\Documents\c#\programowanieObiektowe\bin\Debug\net10.0\programowanieObiektowe.pdb
+C:\Users\Przemek\Documents\c#\programowanieObiektowe\obj\Debug\net10.0\programowanieObiektowe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Przemek\Documents\c#\programowanieObiektowe\obj\Debug\net10.0\programowanieObiektowe.AssemblyInfoInputs.cache
+C:\Users\Przemek\Documents\c#\programowanieObiektowe\obj\Debug\net10.0\programowanieObiektowe.AssemblyInfo.cs
+C:\Users\Przemek\Documents\c#\programowanieObiektowe\obj\Debug\net10.0\programowanieObiektowe.csproj.CoreCompileInputs.cache
+C:\Users\Przemek\Documents\c#\programowanieObiektowe\obj\Debug\net10.0\programowanieObiektowe.dll
+C:\Users\Przemek\Documents\c#\programowanieObiektowe\obj\Debug\net10.0\refint\programowanieObiektowe.dll
+C:\Users\Przemek\Documents\c#\programowanieObiektowe\obj\Debug\net10.0\programowanieObiektowe.pdb
+C:\Users\Przemek\Documents\c#\programowanieObiektowe\obj\Debug\net10.0\programowanieObiektowe.genruntimeconfig.cache
+C:\Users\Przemek\Documents\c#\programowanieObiektowe\obj\Debug\net10.0\ref\programowanieObiektowe.dll
