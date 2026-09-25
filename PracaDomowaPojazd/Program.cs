@@ -11,7 +11,7 @@ class Pojazd
         this.nazwaModelu = model;
     }
 
-    public void Jedz()
+    public virtual void Jedz()
     {
         Console.WriteLine($"{nazwaModelu} jedzie");
     }
@@ -20,7 +20,7 @@ class Pojazd
 class Samochod : Pojazd
 {
     public Samochod(string nazwaModelu) : base(nazwaModelu){}
-    public void Jedz()
+    public override void Jedz()
     {
         Console.WriteLine($"{nazwaModelu} jedzie po szosie");
     }
@@ -30,7 +30,7 @@ class Samochod : Pojazd
 class Rower : Pojazd
 {
     public Rower(string nazwaModelu) : base(nazwaModelu){}
-    public void Jedz()
+    public override void Jedz()
     {
         Console.WriteLine($"Rowerzysta jedzie na {nazwaModelu}");
     }
@@ -41,11 +41,11 @@ class Program
 
     static void Main()
     {
-         Pojazd[] pojazdy = new Pojazd[]
+        Pojazd[] pojazdy = new Pojazd[]
         {
-        new Pojazd("FSO Polonez"),
-        new Pojazd("Kross"),
-        new Pojazd("BMW E46")
+            new Pojazd("FSO Polonez"),
+            new Rower("Kross"),
+            new Samochod("BMW E46")
         };
 
         foreach(var poj in pojazdy)
