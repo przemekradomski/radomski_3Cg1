@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PracaDomowaPojazd")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+802cbc087cd2ecf91dd6a182e139e9886c8d56fc")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6d330e785dc1d4ec293cc04537ce50efbf7e861c")]
 [assembly: System.Reflection.AssemblyProductAttribute("PracaDomowaPojazd")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PracaDomowaPojazd")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

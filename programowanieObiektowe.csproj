@@ -11,4 +11,12 @@
   <Compile Remove="PracaDomowaPojazd/**" />
   </ItemGroup>
 
+  <ItemGroup>
+  <Compile Remove="pracaDomowaKontoBankowe/**" />
+  </ItemGroup>
+
+  <ItemGroup>
+  <Compile Remove="pracownik/**" />
+  </ItemGroup>
+
 </Project>

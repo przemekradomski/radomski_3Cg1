@@ -1,12 +1,19 @@
-﻿class Program
+﻿class Pojazd
 {
-    public static void Main(string[]args)
-    {
-        // KontoBankowe konto = new KontoBankowe("Przemek Radomski", 10000.00);
-        // konto.Wplac(500);
-        // Console.WriteLine($"Aktualne saldo to: {konto.GetSaldo()} PLN");
+    protected string model = "Nieznany";
+    protected int rokProdukcji = 0;
 
-        Student student = new Student("Przemek", "Radomski", "3c", 17);
-        Console.WriteLine($"Imie: {student.GetFirstName()}, nazwisko {student.GetLastName()}, wiek: {student.getAge()}, klasa: {student.getGroup()}");
+    public Pojazd(string model, int rokProdukcji)
+    {
+        this.model = model;
+        this.rokProdukcji = rokProdukcji;
     }
+
+    public Pojazd(string Model)
+    {
+        this.model = Model;
+        this.rokProdukcji = rokProdukcji;
+    }
+    
 }
+

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("programowanieObiektowe")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4a59b2875bd9bb80827b261985182777246cacc1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6d330e785dc1d4ec293cc04537ce50efbf7e861c")]
 [assembly: System.Reflection.AssemblyProductAttribute("programowanieObiektowe")]
 [assembly: System.Reflection.AssemblyTitleAttribute("programowanieObiektowe")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
